@@ -1,4 +1,4 @@
-tdhujsjvpackage com.example.ideal.testproject;
+hgjhktdhujsjvpackage com.example.ideal.testproject;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -13,3 +13,6 @@ public class MainActivity extends AppCompatActivity {
 }
 cgdfh
 nfgxj
+ghkhj
+gjhghk
+vjk
